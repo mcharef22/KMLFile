@@ -1,176 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
-     xmlns:atom="http://www.w3.org/2005/Atom">
-    <Document>
-        <name><![CDATA[GraphHopper-Track-2023-10-12-3km]]></name>
-        
-                                <atom:link href="http://graphhopper.com"/>
-            
-                            <TimeStamp>
-                <when>2023-10-12T15:00:13.795Z</when>
-            </TimeStamp> 
-            
-                
-        <description><![CDATA[<br/><p> </p><p><br/>Converted using <b><a href='http://gpx2kml.com' title='Go to gpx2kml.com'>gpx2kml.com</a></b></p><br/>]]></description>
-        <visibility>1</visibility>
-        <open>1</open>
-        
-                <Style id="red">
-            <LineStyle>
-            <color>C81400FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_red">
-            <LineStyle>
-            <color>961400FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="green">
-            <LineStyle>
-            <color>C878FF00</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_green">
-            <LineStyle>
-            <color>9678FF00</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="blue">
-            <LineStyle>
-            <color>C8FF7800</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_blue">
-            <LineStyle>
-            <color>96FF7800</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="cyan">
-            <LineStyle>
-            <color>C8F0FF14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_cyan">
-            <LineStyle>
-            <color>96F0FF14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="orange">
-            <LineStyle>
-            <color>C81478FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_orange">
-            <LineStyle>
-            <color>961478FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="dark_green">
-            <LineStyle>
-            <color>C8008C14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_dark_green">
-            <LineStyle>
-            <color>96008C14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="purple">
-            <LineStyle>
-            <color>C8FF7878</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_purple">
-            <LineStyle>
-            <color>96FF7878</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="pink">
-            <LineStyle>
-            <color>C8A078F0</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_pink">
-            <LineStyle>
-            <color>96A078F0</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="brown">
-            <LineStyle>
-            <color>C8143C96</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_brown">
-            <LineStyle>
-            <color>96143C96</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="dark_blue">
-            <LineStyle>
-            <color>C8F01414</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_dark_blue">
-            <LineStyle>
-            <color>96F01414</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        
-                
-                
-        <Folder>
-            <name>Tracks</name>
-            <description>A list of tracks</description>
-            <visibility>1</visibility>            
-            <open>0</open>
-                                                            
-                <Placemark>
-                    <visibility>0</visibility>            
-                    <open>0</open> 
-                    <styleUrl>#red</styleUrl>
-                    <name>GraphHopper Track</name>
-                    <description>
- - Track no. 1</description>
-                    <LineString>
-                        <extrude>true</extrude>
-                        <tessellate>true</tessellate>
-                        <altitudeMode>clampToGround</altitudeMode> 
-                        <coordinates>
-                            0.318050,47.919700,84.5 0.320310,47.921240,86.4 0.320690,47.921120,87.0 0.321530,47.920860,85.1 0.322170,47.920640,85.2 0.322750,47.920390,85.4 0.326970,47.918270,84.4 0.327520,47.917990,84.1 0.327980,47.917720,83.9 0.329780,47.916590,83.0 0.330070,47.916400,83.0 0.330150,47.916280,83.0 0.330030,47.916240,82.8 0.329960,47.916180,82.6 0.329840,47.916200,82.3 0.328620,47.916620,79.5 0.327650,47.916940,79.4 0.327290,47.917030,79.3 0.326580,47.917140,79.1 0.326240,47.917140,79.0 0.324410,47.916950,78.7 0.323610,47.916930,78.8 0.322730,47.916940,78.8 0.321040,47.917160,77.4 0.320560,47.917180,77.2 0.318730,47.917090,76.4 0.317710,47.917010,76.5 0.317080,47.916920,76.6 0.314120,47.916700,76.8 0.313590,47.916670,76.8 0.313030,47.916700,76.9 0.313090,47.916520,76.7 0.313240,47.916290,76.5 0.313430,47.915820,76.2 0.313560,47.915270,75.7 0.313590,47.915000,75.5 0.313570,47.914840,75.4 0.313430,47.914700,75.3 0.313330,47.914640,75.2                             
-                        </coordinates>
-                    </LineString>
-                </Placemark>
-                                        
-        </Folder>
-                
-        <LookAt>
-            <longitude>0.32159</longitude>            
-            <latitude>47.91794</latitude>             
-            <altitude>0</altitude>               
-            <heading>0</heading>               
-            <tilt>45</tilt>
-            <range>683</range>                    
-            <altitudeMode>clampToGround</altitudeMode> 
-        </LookAt>
-    </Document>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Point 1</name>
+      <description>This is point 1</description>
+      <Point>
+        <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 2</name>
+      <description>This is point 2</description>
+      <Point>
+        <coordinates>-122.081984,37.422077,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
