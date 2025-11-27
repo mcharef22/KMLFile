@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>External GPX Track</name>
+    <Placemark>
+      <name>External Track</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>4</width>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <coordinates>0.228565,47.994918 0.227889,47.994712 0.228139,47.994353 0.228195,47.994315 0.228197,47.994312 0.228340,47.994083 0.228348,47.994070 0.228182,47.994011 0.228228,47.993933 0.228107,47.993883 0.228093,47.993715 0.228243,47.993698 0.228617,47.993712 0.228795,47.993680 0.228949,47.993634 0.228790,47.993434 0.228618,47.993295 0.228623,47.993295</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
